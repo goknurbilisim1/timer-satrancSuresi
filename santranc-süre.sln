@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "santranc-süre", "santranc-süre\santranc-süre.csproj", "{59971BCC-CF49-443A-AC33-F1EA5817536E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59971BCC-CF49-443A-AC33-F1EA5817536E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59971BCC-CF49-443A-AC33-F1EA5817536E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59971BCC-CF49-443A-AC33-F1EA5817536E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59971BCC-CF49-443A-AC33-F1EA5817536E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBB11B69-CDA7-4573-AA0E-8E42CC2CC1AB}
+	EndGlobalSection
+EndGlobal

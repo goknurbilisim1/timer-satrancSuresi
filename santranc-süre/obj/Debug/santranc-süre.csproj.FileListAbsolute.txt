@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\santranc-süre\santranc-süre\bin\Debug\santranc-süre.exe.config
+C:\Users\User\source\repos\santranc-süre\santranc-süre\bin\Debug\santranc-süre.exe
+C:\Users\User\source\repos\santranc-süre\santranc-süre\bin\Debug\santranc-süre.pdb
+C:\Users\User\source\repos\santranc-süre\santranc-süre\obj\Debug\santranc-süre.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\santranc-süre\santranc-süre\obj\Debug\santranc-süre.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\santranc-süre\santranc-süre\obj\Debug\santranc_süre.Form1.resources
+C:\Users\User\source\repos\santranc-süre\santranc-süre\obj\Debug\santranc_süre.Properties.Resources.resources
+C:\Users\User\source\repos\santranc-süre\santranc-süre\obj\Debug\santranc-süre.csproj.GenerateResource.cache
+C:\Users\User\source\repos\santranc-süre\santranc-süre\obj\Debug\santranc-süre.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\santranc-süre\santranc-süre\obj\Debug\santranc-süre.exe
+C:\Users\User\source\repos\santranc-süre\santranc-süre\obj\Debug\santranc-süre.pdb
